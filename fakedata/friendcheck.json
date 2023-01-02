@@ -1,0 +1,132 @@
+[
+  {
+    "slectionarray":[
+      [
+        {
+          "id": 11,
+          "category":"color",
+          "image": "https://images.pexels.com/photos/4723038/pexels-photo-4723038.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "name": "Red"
+        },
+        {
+          "id": 12,
+          "category":"color",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD3jXf_LXv4qSRuClGJ2EBQOrKTxiAF89hfa5Y7UHhdw&s",
+          "name": "Orange"
+        },
+        {
+          "id": 13,
+          "category":"color",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Solid_yellow.svg/512px-Solid_yellow.svg.png?20150316143538",
+          "name": "Yellow"
+        },
+        {
+          "id": 14,
+          "category":"color",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryS1PtBlIkL-UABgsOuj8HmfARBfMvZAVXJp1lO3KGoOdzxwURcmpOZKvzDQ1oYDKM4Y&usqp=CAU",
+          "name": "Green"
+        },
+        {
+          "id": 15,
+          "category":"color",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Solid_blue.svg/1200px-Solid_blue.svg.png",
+          "name": "Blue"
+        },
+        {
+          "id": 16,
+          "category":"color",
+          "image": "https://garden.spoonflower.com/c/12858507/p/f/m/LJ0MaVWbBPsPQbeZpoUkelkWdGU8lQBcgkF1cd0FTn18NcJ8YjKv/Plain%20indigo%20Coordinating%20retro%20colour%20.jpg",
+          "name": "Indigo"
+        },
+        {
+          "id": 17,
+          "category":"color",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Solid_violet.png",
+          "name": "Violet"
+        }
+      ],
+      [
+        {
+          "id": 21,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/2895712/pexels-photo-2895712.png?auto=compress&cs=tinysrgb&w=1600",
+          "name": "Mango"
+        },
+        {
+          "id": 22,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/1131079/pexels-photo-1131079.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "name": "Apple"
+        },
+        {
+          "id": 23,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/2316466/pexels-photo-2316466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Banana"
+        },
+        {
+          "id": 24,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/1114797/pexels-photo-1114797.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "name": "Orange"
+        },
+        {
+          "id": 25,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/139229/pexels-photo-139229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Pineapple"
+        },
+        {
+          "id": 26,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/8755131/pexels-photo-8755131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Water Melon"
+        },
+        {
+          "id": 27,
+          "category":"fruits",
+          "image": "https://images.pexels.com/photos/934055/pexels-photo-934055.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "name": "Strawberry"
+        }
+      ],
+      [
+        {
+          "id": 31,
+          "category":"place",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Boat_in_river%2C_Bangladesh.jpg",
+          "name": "Jaflong in Sylhet"
+        },
+        {
+          "id": 32,
+          "category":"place",
+          "image": "https://thumbs.dreamstime.com/b/tetulia-shahi-six-dome-mosque-satkhira-bangladesh-beautiful-old-situated-district-i-visited-took-shot-92316500.jpg",
+          "name": "Tetulia in Sakhira."
+        },
+        {
+          "id": 33,
+          "category":"place",
+          "image": "https://images.indulgexpress.com/uploads/user/imagelibrary/2017/7/29/original/baghmama.jpg",
+          "name": "Sundarban"
+        },
+        {
+          "id": 34,
+          "category":"place",
+          "image": "https://images.squarespace-cdn.com/content/v1/6102abeba9fd55174a180768/557b2833-24a8-4bb7-9409-771430c82a2f/beautiful+sreemangal",
+          "name": "Sreemangal"
+        },
+        {
+          "id": 34,
+          "category":"place",
+          "image": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/blog4dKAKeKwaLG__IpVCQXRBfc84THl_hTO.jpg",
+          "name": "Cox's Bazar."
+        },
+        {
+          "id": 35,
+          "category":"place",
+          "image": "https://bdsearcher.com/wp-content/uploads/2017/08/Boga-Lake-Bandarban.jpg",
+          "name": "Keokradong."
+        }
+      ]
+    ]
+  }
+]
